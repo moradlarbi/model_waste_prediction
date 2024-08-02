@@ -1,0 +1,367 @@
+iso3c;region_id;country_name;income_id;city_name;composition_food_organic_waste_percent;composition_glass_percent;composition_metal_percent;composition_other_percent;composition_paper_cardboard_percent;composition_plastic_percent;institutional_framework_department_dedicated_to_solid_waste_management_na;legal_framework_long_term_integrated_solid_waste_master_plan_na;legal_framework_solid_waste_management_rules_and_regulations_na;population_population_number_of_people;primary_collection_mode_form_of_primary_collection_na;separation_existence_of_source_separation_na;total_msw_total_msw_generated_tons_year
+AFG;SAS;Afghanistan;LIC;Jalalabad;1.0455;1.1175;0.0175;84.854;0.08;5.6455;Yes;No;Yes;326585.0;Door-to-door collection;No;58914.45
+AFG;SAS;Afghanistan;LIC;Kandahar;11.6;2.311;0.169;64.364;1.499;9.643;Yes;No;Yes;429000.0;Centralized drop-off point;No;120971
+AFG;SAS;Afghanistan;LIC;Mazar-E-Sharif;50.5;1.32;0.32;28.87;1.69;10.64;Yes;No;Yes;635250.0;Centralized drop-off point;No;52368.4
+AFG;SAS;Afghanistan;LIC;Kabul;13.5;1;0.5;63;5.0;11;;No;Yes;3700000.0;Centralized drop-off point;;1989250
+AFG;SAS;Afghanistan;LIC;Hirat ;52.94;1.47;0.23;23.05;3.67;12.06;Yes;No;Yes;337000.0;Door-to-door collection;No;91644.7
+AGO;SSF;Angola;LMC;Luanda;21;6;3;43;11.0;12;;;;4508000.0;;;1316336
+ALB;ECS;Albania;UMC;Korca;37;2;2;37;11.0;11;Yes;No;Yes;51152.0;Curbside collection;No;21000
+ALB;ECS;Albania;UMC;Vlora;40.42;4.47;0.99;24.08;18.94;11.1;Yes;No;Yes;79513.0;Curbside collection;No;37955
+ARE;MEA;United Arab Emirates;HIC;Abu Dhabi;39;4;3;10;25.0;19;Yes;yes;yes;1145000.0;Curbside collection;No;1033543
+ARE;MEA;United Arab Emirates;HIC;Dubai;35.42;3.42;2.37;7.55;24.29;24.23;Yes;Yes;Yes;2415000.0;Curbside;;2689808
+ARG;LCN;Argentina;HIC;Córdoba;35;3;2;15;13.0;14;;;;1329604.0;Multiple;Yes;488735
+ARG;LCN;Argentina;HIC;Rosario;58.38;4.93;1.4;11.31;13.55;11.68;;Yes;Yes;1193605.0;Multiple;Yes;438730
+ARG;LCN;Argentina;HIC;Ciudada Autónoma De Buenos Aires (Caba).;38;6;2;18;16.0;16;Yes;No;Yes;2981781.0;Multiple;Yes;2532005
+ARM;ECS;Armenia;UMC;Vanadzor;28;6;3.75;34.5;10.0;15.75;No;No;No;86199.0;Curbside collection;No;23596.97
+ARM;ECS;Armenia;UMC;Spitak;29.5;6.75;4;42.75;4.5;9.75;No;No;No;12881.0;Curbside collection;No;2866
+ASM;EAS;American Samoa;UMC;Pago Pago;19.7;3.4;7.9;25.6;26.4;12.8;Yes;;Yes;;;;
+AUS;EAS;Australia;HIC;Perth;40.1;6.8;3.5;22;15.2;8.2;Yes;Yes;Yes;20359.0;Curbside collection;;
+AUS;EAS;Australia;HIC;Melbourne;68.21;3;;1;11.44;15.33;Yes;Yes;Yes;4203000.0;Curbside collection;;
+AUS;EAS;Australia;HIC;Canberra;47;7;5;15;22.0;4;Yes;Yes;Yes;353626.0;Curbside collection;;350000
+AUT;ECS;Austria;HIC;Vienna;31.4;8.3;3.6;16.8;37.0;2.9;Yes;;Yes;1741246.0;Door-to-door collection: waste collector knocks on door or rings doorbell and waits for resident to bring waste.;Yes;1036879
+AZE;ECS;Azerbaijan;UMC;Baku;41.7;6.4;1.5;20.6;18.1;10.4;Yes;Yes;;2374000.0;Curbside collection;;1965922
+BDI;SSF;Burundi;LIC;Muyinga;;;;;;;;;;632409.0;;;5657.5
+BDI;SSF;Burundi;LIC;Kayanza;;;;;;;;;;585412.0;;;4015
+BDI;SSF;Burundi;LIC;Ngozi;;;;;;;;;;39884.0;;;6752.5
+BDI;SSF;Burundi;LIC;Bujumbura;;;;;;;No;No;No;412000.0;Door-to-door collection;;210532
+BEL;ECS;Belgium;HIC;Brussels;;22;;20;35.0;11;Yes;Yes;;1154635.0;Other;Yes;469559
+BEL;ECS;Belgium;HIC;Liege;;;;;;;;Yes;;1020579.0;Other;Yes;525300
+BEN;SSF;Benin;LIC;Porto Novo;;;;;;;;;;600000.0;;;109500
+BEN;SSF;Benin;LIC;Cotonou;58.24;0.86;1.13;29.62;3.96;4.43;;;;642000.0;Door-to-door collection;;258420
+BFA;SSF;Burkina Faso;LIC;Bobo Dioulasso;;;;;;;;;;365000.0;;;90000
+BFA;SSF;Burkina Faso;LIC;Ouagadougou;39;3;4;35;9.0;10;Yes;Yes;Yes;1328000.0;Door-to-door collection: waste collector knocks on door or rings doorbell and waits for resident to bring waste.;Yes;315068
+BGD;SAS;Bangladesh;LMC;Patuakhali;84.37;0.63;0.4;5.95;3.1;2.89;Yes;No;No;65000.0;Centralized drop-off point;No;5220
+BGD;SAS;Bangladesh;LMC;Chittagong;79.03;0.22;1.04;6.08;3.6;7.21;Yes;No;No;2581643.0;Door-to-door collection;No;320380
+BGD;SAS;Bangladesh;LMC;Rangpur;76.68;0.59;0.5;12.74;2.81;4.55;Yes;No;No;294265.0;Centralized drop-off point;No;25992
+BGD;SAS;Bangladesh;LMC;Dhaka;78.87;4.085;4.085;4.57;4.29;4.1;Yes;No;No;5700000.0;Door-to-door collection;No;1424689
+BGD;SAS;Bangladesh;LMC;Rajshahi;81.96;0.3;0.04;9.91;2.64;4.05;Yes;No;No;448087.0;Door-to-door collection;No;40069.699999999997
+BGR;ECS;Bulgaria;UMC;Ruse;;;;;;;Yes;Yes;Yes;144936.0;;;
+BGR;ECS;Bulgaria;UMC;Burgas;;;;;;;Yes;Yes;Yes;202766.0;;;
+BHR;MEA;Bahrain;HIC;Manama;;;;;;;Yes;Yes;Yes;411000.0;Curbside collection;No;
+BIH;ECS;Bosnia and Herzegovina;UMC;Banja Luka;34.2;4.9;6.6;16.3;10.8;22.3;Yes;No;Yes;180053.0;Centralized drop-off point;No;65941
+BIH;ECS;Bosnia and Herzegovina;UMC;Sarajevo;15;14;;51;17.0;2.5;Yes;Yes;Yes;318000.0;Centralized drop-off point;Yes;146280
+BLR;ECS;Belarus;UMC;Minsk;32.13;5.88;4.23;35;6.9;10.12;;;Yes;1915000.0;Centralized drop-off point;Yes;1135421
+BLR;ECS;Belarus;UMC;Grodno;23.8;14.6;2.6;44.3;4.6;8.6;Yes;Yes;Yes;340000.0;Multiple;Yes;147500
+BLZ;LCN;Belize;UMC;San Pedro;52;6;4;;13.0;13;;;;14215.0;;;10166
+BLZ;LCN;Belize;UMC;Belize City;37;9;7;8;18.0;21;Yes;;No;68266.0;Centralized drop-off point;;32657
+BOL;LCN;Bolivia;LMC;La Paz;47.3;2.6;1.4;20.7;12.8;15.2;No;;Yes;840209.0;Multiple;;202456.07
+BRA;LCN;Brazil;UMC;Distrito Federal, Brasilia;46.1;0.6;4.3;4.4;27.1;14.7;Yes;Yes;Yes;2977216.0;Multiple;Yes;835480
+BRA;LCN;Brazil;UMC;Rio De Janeiro;52;3.5;1.67;6.3;14.97;21.15;Yes;Yes;Yes;6453682.0;Door-to-door collection;Yes;3368499
+BRA;LCN;Brazil;UMC;Sao Paulo;47;1;2;22;16.0;10;Yes;Yes;Yes;11895893.0;Door-to-door collection;Yes;4700000
+BTN;SAS;Bhutan;LMC;Phuentsholing ;65.4;2.3;0.4;2.3;14.1;12.1;Yes;;Yes;40000.0;Door-to-door collection;No;6205
+BTN;SAS;Bhutan;LMC;Thimphu;50.5;3.7;0.5;4.2;24.6;13.5;Yes;;;101990.0;Door-to-door collection;Yes;18250
+BWA;SSF;Botswana;UMC;Gaborone;67.9;6.4;6.2;2.5;12.5;4.5;;;;210000.0;;;53655
+CAN;NAC;Canada;HIC;Toronto;46.5;3.5;2.8;8.2;26.3;11;Yes;Yes;Yes;2800000.0;Curbside collection;Yes;942700
+CAN;NAC;Canada;HIC;Ottawa;50.1;;;26.7;15.9;7.3;Yes;Yes;Yes;934243.0;Curbside collection;Yes;325000
+CAN;NAC;Canada;HIC;Vancouver;43;2;3;18;17.0;17;Yes;Yes;Yes;2465031.0;Curbside collection;Yes;909519
+CHE;ECS;Switzerland;HIC;Bern;;;;;;;;;;358000.0;;;59000
+CHE;ECS;Switzerland;HIC;Zurich;;;;;;;;;;1246000.0;;;
+CHL;LCN;Chile;HIC;Santiago De Chile;49;4;1;16;12.0;10;Yes;;;7007620.0;;;3072148
+CHN;EAS;China;UMC;Beijing;63.4;1.6;0.3;6.6;11.1;12.7;Yes;;;20384000.0;;;7903000
+CIV;SSF;C�te d�Ivoire;LMC;Abidjan;40;2;2;35;6.0;8;;;Yes;4150000.0;Door-to-door collection;;1200000
+CMR;SSF;Cameroon;LMC;Limbe;54.8;1.6;2.4;16.3;12.5;12.4;;;;;;;
+CMR;SSF;Cameroon;LMC;Douala;;;;;;;;;;1490000.0;;;380695
+CMR;SSF;Cameroon;LMC;Yaounde;;;;;;;Yes;;Yes;2349000.0;;;375303.95
+CMR;SSF;Cameroon;LMC;Bafoussam;;;;;;;;;;193000.0;;;30000
+COD;SSF;Congo, Dem. Rep.;LIC;Kinshasa;;;;;;;Yes;;Yes;11587000.0;;;2555000
+COG;SSF;Congo, Rep.;LMC;Dolisie;73.9;2.1;1.9;9.9;6.0;6.2;;;Yes;95000.0;Door-to-door collection;;17550
+COL;LCN;Colombia;UMC;Bogotá;61.45;1.06;0.95;7.34;10.17;19.03;Yes;Yes;Yes;6840116.0;;Yes;1746890
+COL;LCN;Colombia;UMC;Medellin;59.24;1.07;0.76;25.86;3.7;9.37;;Yes;Yes;2464322.0;Door-to-door collection;No;476455
+COL;LCN;Colombia;UMC;Cali;59;2.56;1.06;27.94;6.23;3.21;;Yes;Yes;2224158.0;Other;Yes;669410
+COM;SSF;Comoros;LIC;Moroni;;;;;;;;Yes;Yes;56000.0;Centralized drop-off point;;
+CRI;LCN;Costa Rica;UMC;San José;55;2;2;20;11.0;10;;Yes;;309673.0;Door-to-door collection;Yes;132405
+CRI;LCN;Costa Rica;UMC;Alajuela;51.1;0.9;1.1;26.8;7.5;12.6;Yes;Yes;Yes;254886.0;Door-to-door collection;No;80901.440000000002
+CUB;LCN;Cuba;UMC;Havana;60;11;2;1;9.0;8;;;Yes;2135747.0;Multiple;;545683.36
+CYP;ECS;Cyprus;HIC;Paralimini;20;5;1;20;11.0;17;;;;11836.0;;;
+CYP;ECS;Cyprus;HIC;Nicosia;;;;;;;Yes;;;55014.0;;;36198
+CZE;ECS;Czech Republic;HIC;Karlovy Vary;;;;;;;;;;299293.0;;;131539.26999999999
+CZE;ECS;Czech Republic;HIC;Prague;;;;;;;;;;1243201.0;Other;;400900
+DEU;ECS;Germany;HIC;Hamburg;21.49;4.27;6.53;32.79;25.75;1.6;Yes;Yes;Yes;1831000.0;Curbside collection;Yes;
+DEU;ECS;Germany;HIC;Berlin;;;;;;;;;;;;;
+DJI;MEA;Djibouti;LMC;Djiibouti City;;;;;;;;;;404000.0;;;87600
+DNK;ECS;Denmark;HIC;Copenhagen;;;;;;;;;;570171.0;Other;Yes;233805
+DOM;LCN;Dominican Republic;UMC;Santo Domingo;58;5;2;11;8.0;9;Yes;;;3976012.0;Multiple;;1818889
+DZA;MEA;Algeria;UMC;Algiers;54.4;1.16;2.84;0.84;9.75;16.88;Yes;;Yes;2594000.0;;;1237874
+DZA;MEA;Algeria;UMC;Mostaganem;64.6;2.8;1.9;4.3;15.9;10.5;;;;720000.0;;;160000
+ECU;LCN;Ecuador;UMC;Quito;56.95;1.62;0.9;20.92;4.25;14.21;;;;2344231.0;;;727297.66
+EGY;MEA;Egypt, Arab Rep.;LMC;Cairo;56;3;7.2;10.5;19.5;3.8;Yes;;;9000000.0;Door-to-door collection;Yes;5475000
+ESP;ECS;Spain;HIC;Pamplona;37.2;8.9;2.3;24.6;16.4;8.2;No;Yes;Yes;195650.0;Centralized drop-off point;Yes;141296
+ESP;ECS;Spain;HIC;Madrid;;21.73;5.8;43.76;11.78;10.4;Yes;Yes;Yes;3165235.0;Other;Yes;2652471
+EST;ECS;Estonia;HIC;Tallinn;22;13;5;15;29.0;14;Yes;;;391000.0;;;202011
+EST;ECS;Estonia;HIC;Tartummaa;0.93;0.02;3.84;74.86;15.06;0.07;;;;150000.0;;;
+ETH;SSF;Ethiopia;LIC;Adola Woyu;39;3.65;5.1;28.1;7.6;6.3;;;;32692.0;;;3222
+ETH;SSF;Ethiopia;LIC;Bule Hora;77.15;;;13.8;3.65;5.4;;;;35192.0;;;7322
+ETH;SSF;Ethiopia;LIC;Addis Ababa;44.45;1.15;1.05;29.55;11.5;12.65;;;Yes;2979100.0;;;413180
+ETH;SSF;Ethiopia;LIC;Maichew;52.75;0.55;2.55;33.05;4.55;5.5;;;;33560.0;;;4907
+ETH;SSF;Ethiopia;LIC;Tepi;52;3;3.5;26.5;1.0;1;;;;36128.0;;;4697.8999999999996
+ETH;SSF;Ethiopia;LIC;Gerbe Guracha;75.5;;;11.14;2.38;4;;;;41438.0;;;5277.62
+ETH;SSF;Ethiopia;LIC;Weldiya;52.5;2.5;3;27;6.5;7.5;;;;86311.0;;;4787
+ETH;SSF;Ethiopia;LIC;Debre Tabor;67;1;1;26;1.0;1;;;;78706.0;;;6570
+ETH;SSF;Ethiopia;LIC;Bati;52.01;1.49;0.39;32.19;6.92;6.95;;;;20536.0;;;1469
+ETH;SSF;Ethiopia;LIC;Dire Dawa;68;0.7;1.5;15.3;5.0;10;Yes;;;270000.0;Door-to-door collection;;49275
+ETH;SSF;Ethiopia;LIC;Halaba Kulito;88.8;;;5.9;1.7;3.7;;;;271654.0;;;
+ETH;SSF;Ethiopia;LIC;Dembi Dolo;57;0.49;0.49;37.47;2.7;2.3;;;;41031.0;;;3295
+FIN;ECS;Finland;HIC;Oulu;;;;;;;Yes;;;196321.0;;Yes;
+FIN;ECS;Finland;HIC;Riihimaki;48.4;1.6;2.3;17.1;14.2;15.8;;;;30000.0;;;
+FIN;ECS;Finland;HIC;Turku;42.8;1.5;1.6;19.9;15.4;17.6;;;;180000.0;;;
+FJI;EAS;Fiji;UMC;Suva;49.5;2.5;3.6;6.2;16.0;8;Yes;;Yes;86000.0;Curbside collection;No;24272.5
+FRA;ECS;France;HIC;Angers-Loire Metropole;;;;;;;Yes;Yes;Yes;277506.0;Other;Yes;136405
+FRA;ECS;France;HIC;Paris;22.2;6.8;3.8;25.1;21.3;16.7;;Yes;Yes;2254262.0;Door-to-door collection;Yes;1092508
+FSM;EAS;Micronesia, Fed. Sts.;LMC;Pohnpei;15.6;5.7;25.7;8.8;16.6;25;Yes;;Yes;34574.0;Door-to-door collection;Yes;4562.5
+GAB;SSF;Gabon;UMC;Libreville;;;;;;;;;;707000.0;;;417428
+GBR;ECS;United Kingdom;HIC;London;34;12;4;8;36.0;6;Yes;Yes;Yes;8173941.0;Door-to-door collection;Yes;3560990
+GBR;ECS;United Kingdom;HIC;Bristol;48;1;1;23;7.0;11;No;Yes;Yes;449300.0;Curbside collection;Yes;166000
+GEO;ECS;Georgia;LMC;Tbilisi;69.5;2.4;1.1;4.8;9.5;13;;;;1147000.0;;;
+GHA;SSF;Ghana;LMC;Accra;65.8;2.8;3.1;11.3;5.3;10.4;Yes;Yes;Yes;1960000.0;Door-to-door collection;;730000
+GHA;SSF;Ghana;LMC;Kumasi;48.4;2.9;4.5;18.6;6.5;17.6;;;;1470000.0;;;397047
+GIN;SSF;Guinea;LIC;Conakry;85;0.8;0.9;1.7;4.3;5.3;;;;1045000.0;;;219000
+GMB;SSF;Gambia, The;LIC;Banjul;32.44;1.48;1.4;53.14;9.19;;Yes;;Yes;331000.0;;;79935
+GNQ;SSF;Equatorial Guinea;UMC;Labe;69;0.3;1.4;2;4.1;22.8;;;;;;;
+GRC;ECS;Greece;HIC;Athens;;9.15;1.28;88.87;1.11;0.01;No;No;Yes;664046.0;;;310439.34000000003
+GRC;ECS;Greece;HIC;Thessaloniki;44.3;4.3;3.9;6.8;22.2;13.9;;;;354290.0;;Yes;130629
+GTM;LCN;Guatemala;UMC;Guatemala City;34.2;2.8;;22.5;18.6;17;;;Yes;2918000.0;;;482700
+GTM;LCN;Guatemala;UMC;Antigua Guatemala;49.3;2.2;2.8;19.4;10.0;12;;;;41500.0;;No;8483
+GTM;LCN;Guatemala;UMC;Jutiapa;42.9;3.4;;21.7;12.5;11.8;No;;;453369.0;;;59100
+HND;LCN;Honduras;LMC;Tegucigalpa;40;4;4;13;15.0;8;Yes;;;1200000.0;Door-to-door-collection;No;320470
+HND;LCN;Honduras;LMC;San Pedro Sula;68.78;1.44;1.29;6.18;10.33;11.26;;;;852000.0;Curbside collection;No;289685.90000000002
+HRV;ECS;Croatia;HIC;Zagreb;21.4;5.6;3.8;21.7;16.7;21.9;Yes;;No;687000.0;;;255803.62
+HRV;ECS;Croatia;HIC;Cakovec;;;;;;;Yes;;No;15000.0;;;8265.14
+HTI;LCN;Haiti;LIC;Port Au Prince;53;2.1;1.5;14.2;12.0;15.4;;;No;2618894.0;Centralized drop-off point;No;669127.42000000004
+HUN;ECS;Hungary;HIC;Debrecen;36.95;3.47;3.62;13.54;15.79;15.42;Yes;No;Yes;201981.0;Curbside collection;Yes;
+HUN;ECS;Hungary;HIC;Budapest;23.2;6;7;32.4;10.4;21.2;Yes;Yes;Yes;1744665.0;Other;Yes;1000000
+IDN;EAS;Indonesia;LMC;Jakarta;55.37;1.91;1.06;7.59;20.57;13.25;Yes;Yes;Yes;9607787.0;Door-to-door collection;Yes;2240735
+IMN;ECS;Isle of Man;HIC;Douglas;;;;;;;Yes;Yes;Yes;29000.0;Curbside collection;;
+IND;SAS;India;LMC;Kota;51;3;1;20;10.0;15;Yes;No;Yes;1001694.0;Centralized drop-off point;;216504
+IND;SAS;India;LMC;Kozhikode;;;;;;;Yes;;Yes;431560.0;Door-to-door collection;Yes;109500
+IND;SAS;India;LMC;Jaipur;;;;;;;Yes;;Yes;3046163.0;Centralized drop-off point;No;542390
+IND;SAS;India;LMC;Tirunelveli;;;;;;;Yes;No;Yes;479606.0;;;70007
+IND;SAS;India;LMC;Amritsar;53;1;;35;5.0;1;Yes;;Yes;1132383.0;Door-to-door collection;;227395
+IND;SAS;India;LMC;Allahabad;;;;;;;Yes;Yes;Yes;1168385.0;Door-to-door collection;Yes;236640
+IND;SAS;India;LMC;Greater Hyderabad  ;48.22;1.66;0.52;29;7.26;8.61;Yes;Yes;Yes;6731790.0;Door-to-door collection;Yes;1642500
+IND;SAS;India;LMC;Kochi;;;;;;21.6;Yes;;Yes;602046.0;Door-to-door collection;Yes;72000
+IND;SAS;India;LMC;Leh;;;;;;;Yes;;;17353.0;Door-to-door collection;Yes;12045
+IND;SAS;India;LMC;Pune;33;5;3;47;6.0;5;Yes;;Yes;3124458.0;Door-to-door collection;Yes;620500
+IND;SAS;India;LMC;Patna;;;;;;;Yes;No;Yes;1684222.0;Door-to-door collection;;338106.8
+IND;SAS;India;LMC;Jodhpur;13.22;0.54;2.49;20.54;9.0;15.34;Yes;Yes;Yes;1033756.0;;No;124538
+IND;SAS;India;LMC;Nagpur;77;;;2;9.0;12;Yes;Yes;Yes;2405665.0;Door-to-door collection;Yes;383250
+IND;SAS;India;LMC;Shimla;;;;;;;Yes;;Yes;169578.0;Door-to-door collection;;34039.9
+IND;SAS;India;LMC;Rudrapur;;;;;;;Yes;;Yes;154554.0;Door-to-door collection;;23725
+IND;SAS;India;LMC;Bengaluru;53;3;1;12;13.0;12;Yes;Yes;Yes;8443675.0;Door-to-door collection;Yes;1277500
+IND;SAS;India;LMC;Pimpri-Chinchwad;47.89;3.61;0.01;12;3.9;13.67;Yes;Yes;Yes;1727692.0;Door-to-door collection;;271925
+IND;SAS;India;LMC;Kanpur;51.97;0.24;0.41;40;3.38;2.25;Yes;Yes;Yes;2767031.0;Door-to-door collection;Yes;547500
+IND;SAS;India;LMC;Rajkot;31.64;0.11;0.8;63.38;0.84;2.11;Yes;No;Yes;1432734.0;Door-to-door collection;No;193450
+IND;SAS;India;LMC;Tenali;48;3;;15;11.0;;Yes;Yes;Yes;164937.0;Door-to-door collection;Yes;34675
+IND;SAS;India;LMC;Lucknow;47;;;36;17.0;;Yes;Yes;Yes;2817106.0;Door-to-door collection;No;505525
+IND;SAS;India;LMC;Ludhiana;34;10;;35;4.7;16;Yes;Yes;Yes;1840000.0;Door-to-door collection;No;401500
+IND;SAS;India;LMC;Tadipatri;62.5;;;25;;12.5;Yes;No;Yes;108249.0;Door-to-door collection;Yes;14600
+IND;SAS;India;LMC;Bhopal;;;;;;;Yes;;Yes;1798218.0;Door-to-door collection;;292000
+IND;SAS;India;LMC;Faridabad;42;0.85;0.26;33.65;7.16;16.08;Yes;;Yes;1414050.0;Door-to-door collection;Yes;242360
+IND;SAS;India;LMC;Cuttack;;;;;;;Yes;Yes;Yes;610189.0;Door-to-door collection;;66816
+IND;SAS;India;LMC;Ahmedabad;28;1;;32;4.0;10;Yes;Yes;Yes;6494197.0;Door-to-door collection;Yes;1204500
+IND;SAS;India;LMC;Itanagar;53;;3;24;7.0;7;No;;Yes;59500.0;Door-to-door collection;Yes;29200
+IND;SAS;India;LMC;Vishakhapatnam;52;;;25;23.0;;Yes;Yes;Yes;1728128.0;Door-to-door collection;Yes;354050
+IND;SAS;India;LMC;Nashik;;;;;;;Yes;;Yes;1486053.0;Door-to-door collection;Yes;148569.60000000001
+IND;SAS;India;LMC;Dhanbad;;;;;;;Yes;Yes;Yes;1162472.0;Door-to-door collection;;197976
+IND;SAS;India;LMC;Delhi;70.3;;;9.4;20.26;;Yes;Yes;Yes;11034555.0;Door-to-door collection;Yes;3062350
+IND;SAS;India;LMC;Srinagar;;;;;;;Yes;Yes;Yes;1147613.0;Door-to-door collection;Yes;106390.2
+IND;SAS;India;LMC;Ghaziabad;55.94;1.39;0.64;18.94;9.71;9.12;Yes;Yes;Yes;1648643.0;Door-to-door collection;;271925
+IND;SAS;India;LMC;Imphal;60;2;1;15;10.0;5;Yes;;Yes;268243.0;Door-to-door collection;Yes;29200
+IND;SAS;India;LMC;Surat;;;;;;;Yes;;Yes;5500000.0;Door-to-door collection;Yes;620500
+IND;SAS;India;LMC;Vijaywada;;;;;;;Yes;;Yes;1137793.0;Door-to-door collection;Yes;207320
+IND;SAS;India;LMC;Chennai;8;0;0.03;37.65;6.45;7.04;Yes;No;Yes;6671309.0;Door-to-door collection;No;1825000
+IND;SAS;India;LMC;Indore;59;0.5;0.5;27;2.0;3.5;Yes;Yes;Yes;1994397.0;Door-to-door collection;Yes;328500
+IND;SAS;India;LMC;Coimbatore;76.95;;;17.5;5.55;;Yes;Yes;Yes;1050721.0;Door-to-door collection;Yes;324850
+IND;SAS;India;LMC;Navi Mumbai;53;;;20.6;21.4;;Yes;;Yes;1120574.0;Block collection;Yes;237250
+IND;SAS;India;LMC;Greater Mumbai;37;;;48;15.0;;Yes;No;Yes;12478447.0;Door-to-door collection;Yes;2497804.5
+IND;SAS;India;LMC;Guwahati;;;;;;;Yes;Yes;Yes;957352.0;Door-to-door collection;Yes;223015
+IND;SAS;India;LMC;Gwalior ;57.4;0.83;0.26;17.34;12.89;11.25;Yes;Yes;Yes;1069276.0;Door-to-door collection;;138754.75
+IND;SAS;India;LMC;Bhubaneswar;;;;;;;Yes;No;No;837737.0;Door-to-door collection;Yes;189800
+IND;SAS;India;LMC;Mysore;55;9;;10;10.0;13;Yes;Yes;Yes;1058210.0;Door-to-door collection;Yes;146730
+IND;SAS;India;LMC;Warangal;51.14;;;15.53;19.59;13.74;Yes;Yes;Yes;615998.0;Door-to-door collection;Yes;109500
+IRL;ECS;Ireland;HIC;Dublin;27;16;2;10;37.0;8;Yes;Yes;Yes;527612.0;Multiple;Yes;142889
+IRN;MEA;Iran, Islamic Rep.;UMC;Tehran;69.3;1.9;1.5;9.9;9.6;7;Yes;Yes;Yes;8432000.0;Curbside collection;Yes;2868170
+IRQ;MEA;Iraq;UMC;Baghdad;;;;;;;Yes;Yes;Yes;7000000.0;Door-to-door collection;No;3285000
+ISR;MEA;Israel;HIC;Jerusalem;;;;;;;;;Yes;778000.0;;;
+ISR;MEA;Israel;HIC;Tel Aviv;;;;;;;;Yes;Yes;3311000.0;;;
+ITA;ECS;Italy;HIC;Parma;22.98;0.4;10.01;17.43;14.38;26.4;No;;Yes;192836.0;Multiple;Yes;97142.44
+ITA;ECS;Italy;HIC;Milano;37.4;1.4;1.5;14.4;26.2;12.6;;Yes;Yes;1236837.0;Door-to-door collection;Yes;668158
+JOR;MEA;Jordan;UMC;Amman;50;3;1;15;15.0;16;Yes;Yes;Yes;2400000.0;;;996815
+JPN;EAS;Japan;HIC;Yokohama;34.56;1.19;0.76;14.57;25.64;11.88;Yes;Yes;Yes;3730345.0;Other;Yes;1182892
+JPN;EAS;Japan;HIC;Kobe;36.71;0.27;0.76;10.07;35.18;13.4;Yes;Yes;Yes;1547494.0;Centralized drop-off point;Yes;559401
+JPN;EAS;Japan;HIC;Osaka;10.4;1.8;3.2;12;45.9;19.9;Yes;Yes;Yes;2679962.0;Other;Yes;1021258
+JPN;EAS;Japan;HIC;Naha;6.3;;2.8;1.7;50.0;31.5;Yes;Yes;Yes;323558.0;Door-to-door collection;Yes;100375
+JPN;EAS;Japan;HIC;Kitakyushu;49.1;0.6;0.8;14.3;26.4;8.7;Yes;Yes;Yes;972192.0;Other;Yes;409332
+JPN;EAS;Japan;HIC;Toyama;34.5;0.2;0.5;12.6;35.5;15.1;Yes;Yes;Yes;418495.0;Centralized drop-off point;Yes;163417
+KAZ;ECS;Kazakhstan;UMC;Atyrau;32.5;4.3;2.9;22.5;27.6;8.3;;No;No;275896.0;Centralized drop-off point;No;100000
+KAZ;ECS;Kazakhstan;UMC;Kostanay;;;;;;;;No;No;228000.0;Other;No;
+KEN;SSF;Kenya;LMC;Eldoret ;;;;;;;;;;167016.0;;;
+KEN;SSF;Kenya;LMC;Nairobi;50.9;2;2;11.4;17.5;16.1;Yes;Yes;Yes;3050000.0;;No;829645
+KGZ;ECS;Kyrgyz Republic;LMC;Osh;64.19;4.67;1.27;7.06;9.2;13.11;Yes;;;281900.0;Centralized drop-off point;No;312700
+KGZ;ECS;Kyrgyz Republic;LMC;Bishkek;37;1;4;23;27.0;7;Yes;;Yes;865000.0;Centralized drop-off point;No;544700
+KHM;EAS;Cambodia;LMC;Phnom Penh;70;2;2;9;5.0;6;Yes;Yes;Yes;1731000.0;Multiple;No;711750
+KIR;EAS;Kiribati;LMC;South Tarawa;74;2.6;8.4;0.5;7.0;6.6;Yes;;;46000.0;Door-to-door collection;;8395
+KOR;EAS;Korea, Rep.;HIC;Seoul;9.4;;9.9;30.4;41.7;5.9;;;;10204000.0;Door-to-door collection;Yes;3353985
+KWT;MEA;Kuwait;HIC;Kuwait City;;;;;;;Yes;Yes;Yes;2779000.0;;;
+LAO;EAS;Lao PDR;LMC;Vientiane;34;7;1;6;7.0;12;Yes;No;Yes;997000.0;Door-to-door collection;No;232505
+LBN;MEA;Lebanon;UMC;Beirut;52;4;6;2;15.0;13;;;;650000.0;Curbside collection;No;240000
+LBN;MEA;Lebanon;UMC;Saida;50;5;5;;12.0;17;;;;150000.0;Centralized drop-off point;No;36500
+LBR;SSF;Liberia;LIC;Monrovia;40;1;1;42;5.0;11;;No;;1056000.0;Door-to-door collection;;284700
+LBY;MEA;Libya;UMC;Tripoli;36.3;3.5;6.7;19.5;15.3;18.6;;;;1126000.0;;;263033.59999999998
+LKA;SAS;Sri Lanka;LMC;Dehiwala Mt. Lavinia Municipal Council;52.5;1.2;0.7;6.7;13.6;10.5;Yes;No;Yes;187684.0;Door-to-door collection;;63948
+LKA;SAS;Sri Lanka;LMC;Kurunegala;52;0.3;2;7.6;15.7;6.2;Yes;Yes;Yes;25317.0;Curbside collection;;17545.55
+LKA;SAS;Sri Lanka;LMC;Trincomalee;12;2;1;40;4.0;3;No;No;Yes;50268.0;Curbside collection;;22662.85
+LKA;SAS;Sri Lanka;LMC;Jaffna;68.9;0.4;0.3;8.4;2.7;4;Yes;No;Yes;82493.0;Curbside collection;;38278
+LKA;SAS;Sri Lanka;LMC;Moratuwa;52.5;1.2;0.7;6.7;13.6;10.5;Yes;No;Yes;171214.0;Door-to-door collection;;45442.5
+LKA;SAS;Sri Lanka;LMC;Colombo;70.9;4.1;0.9;5;6.6;9.2;Yes;No;Yes;318048.0;Door-to-door collection;;282875
+LTU;ECS;Lithuania;HIC;Vilnius;24.3;12.5;7.2;18;11.8;9.9;Yes;Yes;Yes;517000.0;Centralized drop-off point;Yes;289300
+LTU;ECS;Lithuania;HIC;Kaunas;23.25;5.34;3.01;28.87;10.53;19.66;Yes;Yes;Yes;292691.0;Centralized drop-off point;Yes;130663
+LVA;ECS;Latvia;HIC;Liepaja;26;8;3;37;6.0;9;;Yes;Yes;69443.0;;Yes;
+LVA;ECS;Latvia;HIC;Riga;;;;;;;Yes;;Yes;643368.0;;Yes;312346
+MAR;MEA;Morocco;LMC;Rabat;;;;;;;Yes;Yes;Yes;650000.0;Curbside collection;No;237250
+MAR;MEA;Morocco;LMC;Tangier;66;1;1;7;9.0;11;Yes;Yes;Yes;1100000.0;Curbside collection;No;350000
+MAR;MEA;Morocco;LMC;Beni Mellal;65;3;2;17;6.0;7;;;;192362.0;centralized and curbside;Yes;52955
+MDA;ECS;Moldova;LMC;Soldanesti;20.2;3.5;0.7;60.9;5.5;9.1;No;Yes;Yes;7500.0;Centralized drop-off point;Yes;2037.5
+MDA;ECS;Moldova;LMC;Chisinau;74;5;2;10;2.0;5;Yes;Yes;Yes;789534.0;Centralized drop-off point;Yes;282900
+MDG;SSF;Madagascar;LIC;Antananarivo;24.3;;0.1;54.07;8.2;11.1;Yes;;Yes;2610000.0;;;401500
+MDV;SAS;Maldives;UMC;Male;48.76;3;3;16.25;12.0;10;Yes;No;Yes;153904.0;Door-to-door collection;No;87143.57
+MDV;SAS;Maldives;UMC;Addu;40;3;4;11;7.0;5;Yes;No;Yes;21275.0;Door-to-door collection;No;7612
+MDV;SAS;Maldives;UMC;Fuahmulah;19.57;2.84;2.13;13.65;4.2;6.93;Yes;No;Yes;8510.0;Centralized drop-off point;No;2510.4699999999998
+MEX;LCN;Mexico;UMC;México City;49.5;2.65;1.45;22.87;9.92;13.16;Yes;Yes;Yes;8851080.0;Curbside collection;Yes;4705945
+MEX;LCN;Mexico;UMC;Guadalajara;;;;;;;;;;;;;
+,;33.68;4.03;0.77;22.41;,;,Yes,,,648812,,,;,,;,Yes,;;,2,,,,;",,492.26,,,,,,,,,,,,,,,,,,,,,,8,92,,
+MEX,LCN,Mexico,UMC,Monterrey,";;31.24;39.87;7.06;;,
+MKD;ECS;Macedonia, FYR;UMC;Skopje;15.2;5.5;1.2;48.4;15.3;12.4;No;Yes;Yes;503000.0;Centralized drop-off point;No;182489
+MLI;SSF;Mali;LIC;Bamako;36.2;12;14;23;12.8;16;;;;1933000.0;;;330000
+MLI;SSF;Mali;LIC;Sikasso;;;;;;;;;Yes;225000.0;Door-to-door collection;;46770
+MMR;EAS;Myanmar;LMC;Mandalay;65;2;1;11;6.0;15;Yes;Yes;Yes;1000000.0;Multiple;;343100
+MMR;EAS;Myanmar;LMC;Yangon;69;1;1;10;3.0;8;Yes;None;Yes;4802000.0;Multiple;No;723065
+MNE;ECS;Montenegro;UMC;Podgorica;37;11.5;2.6;17.54;13.0;15.61;;;;190392.0;Curbside collection;;87808
+MNE;ECS;Montenegro;UMC;Kotor;;;;;;;;;;22515.0;Curbside collection;;10121
+MNG;EAS;Mongolia;LMC;Ulaanbaatar;29.5;4.5;3.5;27;17.5;18;Yes;Yes;;1377000.0;Door-to-door collection;Yes;1100000
+MNP;EAS;Northern Mariana Islands;HIC;Saipan;;;;;;;;Yes;Yes;49000.0;;;32371.85
+MOZ;SSF;Mozambique;LIC;Maputo;68;2;4;4;12.0;10;Yes;Yes;Yes;1100000.0;Other;No;401500
+MRT;SSF;Mauritania;LMC;Nouakchott;5;4;4;59;7.0;21;Yes;;Yes;968000.0;Centralized drop-off point;No;
+MWI;SSF;Malawi;LIC;Blantyre;;;;;;;;;;701000.0;;;100
+MWI;SSF;Malawi;LIC;Lilongwe;;;;;;;;;;731000.0;;;95000
+MYS;EAS;Malaysia;UMC;Kuala Lumpur;42.02;1.84;5.3;2.53;12.9;24.74;Yes;;;6837000.0;;Yes;1600000
+NAM;SSF;Namibia;UMC;Windhoek;36;13;5;10;20.0;16;;;;227000.0;;;57998.5
+NER;SSF;Niger;LIC;Niamey;38;;1;57;2.0;2;;;Yes;816000.0;Door-to-door collection;;146000
+NGA;SSF;Nigeria;LMC;Ilorin;61;;;32;7.0;;;;;857000.0;;;
+NGA;SSF;Nigeria;LMC;Lagos;53;5;5;12;10.0;15;;;;9000000.0;;;1642500
+NGA;SSF;Nigeria;LMC;Kano;43;2;5;29;17.0;4;;;;;;;
+NGA;SSF;Nigeria;LMC;Oyo;56.7;3.1;2.8;4.2;14.4;18.8;;;;322000.0;;;20000
+NGA;SSF;Nigeria;LMC;Ibadan;42;4;5;27;10.0;9;Yes;;Yes;3160000.0;Door-to-door collection;No;635000
+NIC;LCN;Nicaragua;LMC;Puerto Cabezas;77;3.07;2.03;8.54;2.6;6.66;Yes;;;66169.0;Door-to-door collection;;14198.5
+NIC;LCN;Nicaragua;LMC;Managua;71.72;1.42;1.28;8.64;8.57;8.37;Yes;;No;1002882.0;Multiple;Yes;468660
+NLD;ECS;Netherlands;HIC;Amsterdam;21.5;8.6;2.9;39.2;18.0;6.4;;Yes;;799345.0;Other;Yes;324302
+NLD;ECS;Netherlands;HIC;Eindhoven;39;3;3;17;19.0;14;;;Yes;226879.0;Curbside collection;Yes;
+NOR;ECS;Norway;HIC;Bergen;20;4;5;28;18.0;8;;Yes;;271949.0;;;70528
+NOR;ECS;Norway;HIC;Oslo;;;;;;5;Yes;Yes;;986000.0;Curbside collection;Yes;360876
+NPL;SAS;Nepal;LIC;Butwal;61.13;3.71;1.56;7.85;11.38;13.46;;No;Yes;120982.0;Centralized drop-off point;;9902.4500000000007
+NPL;SAS;Nepal;LIC;Pokhara;56.34;4.82;4.18;4.88;17.97;9.92;;Yes;Yes;264991.0;Door-to-door collection;No;42745.15
+NPL;SAS;Nepal;LIC;Dhankuta;48.66;0;2.37;13.84;17.12;17.85;;No;Yes;28364.0;Door-to-door collection;No;2701
+NPL;SAS;Nepal;LIC;Birgunj;55.08;9.72;1.23;8.58;10.91;14.46;;No;Yes;139068.0;Door-to-door collection;;13932.05
+NPL;SAS;Nepal;LIC;Kathmandu;53.24;3.21;2.09;3.38;17.31;20.14;;Yes;Yes;1003285.0;Multiple;No;170141.1
+NPL;SAS;Nepal;LIC;Lalitpur;57.07;1.44;0.53;6.55;18.38;15.56;;Yes;Yes;226728.0;Multiple;No;30769.5
+NPL;SAS;Nepal;LIC;Badimalika;51.06;10.57;0.24;18.17;12.97;6.87;;No;Yes;18207.0;Centralized drop-off point;;872.35
+NPL;SAS;Nepal;LIC;Bharatpur;74.23;3.59;1.58;2.81;11.36;5.61;No;;Yes;147777.0;Door-to-door collection;No;21578.799999999999
+NPL;SAS;Nepal;LIC;Dharan;50.49;3.7;6.33;9.75;12.95;16.19;;No;Yes;119915.0;Door-to-door collection;No;18585.8
+NPL;SAS;Nepal;LIC;Bhimeshwor;51.68;0.52;0.01;26.23;11.17;8.17;No;;Yes;23337.0;Centralized drop-off point;;1036.5999999999999
+NPL;SAS;Nepal;LIC;Biratnagar;71.07;0.52;0.21;1.86;13.18;11.99;;No;Yes;204949.0;Door-to-door collection;;21305.05
+NPL;SAS;Nepal;LIC;Bhaktapur;62.68;1.17;2.73;8.66;11.35;13.24;;;Yes;83658.0;Door-to-door collection;;10548.5
+NZL;EAS;New Zealand;HIC;Auckland;55.5;1.8;2.7;17.4;10.5;11.2;Yes;Yes;Yes;1414700.0;Curbside collection;;226352
+NZL;EAS;New Zealand;HIC;Wellington;19;1.5;1.3;12.2;28.0;38;Yes;Yes;Yes;383000.0;;;302500
+OMN;MEA;Oman;HIC;Muscat;;;;;;;Yes;No;yes;838000.0;Curbside collection;No;219000
+PAK;SAS;Pakistan;LMC;Karachi;21;1.5;0.75;48;4.1;6.4;No;;;14910352.0;;No;2719250
+PAK;SAS;Pakistan;LMC;Lahore;65;0.696;0.07;21.824;2.5;0.61;No;Yes;Yes;11126285.0;Door-to-door collection;No;2436656.415
+PAK;SAS;Pakistan;LMC;Sialkot;39.7;7.8;3.4;16.3;12.9;12.8;Yes;Yes;Yes;809000.0;;;125000
+PAN;LCN;Panama;HIC;Panamá City;45;8;5;4;26.0;12;;;Yes;1382667.0;;;494579.98
+PAN;LCN;Panama;HIC;San Miguelito;;;;;;;;;;560285.0;;;199436
+PAN;LCN;Panama;HIC;Colón;;;;;;;;;;250802.0;;;59860
+PER;LCN;Peru;UMC;Cusco;47.9;2.44;3.45;17.07;9.44;11.63;Yes;Yes;No;111340.0;Door-to-door collection;Yes;48563
+PHL;EAS;Philippines;LMC;Cebu;67;1;1;12;4.0;15;Yes;Yes;Yes;923000.0;Multiple;Yes;229950
+PHL;EAS;Philippines;LMC;Quezon City;53.95;1.15;0.86;25.76;8.65;9.64;Yes;Yes;Yes;2940000.0;Door-to-door collection;Yes;944328
+PLW;EAS;Palau;HIC;Koror;7;2;13;7;22.0;48;Yes;No;Yes;11754.0;;Yes;1369
+PNG;EAS;Papua New Guinea;LMC;Port Moresby;29.6;7.1;9.4;12.5;11.5;18.5;Yes;;Yes;345000.0;Door-to-door collection;;107310
+POL;ECS;Poland;HIC;Lodzi;;;;;;;;;;728900.0;;;157070.6
+POL;ECS;Poland;HIC;Kraków;29.22;8.53;2.25;24.93;20.48;14.59;;;;741208.0;;;320500
+PRT;ECS;Portugal;HIC;Lisbon;41;5;1.5;24;15.0;13;Yes;Yes;Yes;511667.0;Other;Yes;291703.71000000002
+PRT;ECS;Portugal;HIC;Guimarães;36.42;5.19;2;25.26;11.08;12.33;Yes;;;158100.0;Door-to-door collection;;56000
+PRY;LCN;Paraguay;UMC;Asunción;37.4;3.5;1.3;23.6;10.2;4.2;Yes;Yes;Yes;525293.0;Door-to-door collection;No;282613
+PRY;LCN;Paraguay;UMC;Ciudad Del Este;57.1;1.8;1.6;1.5;11.5;10.3;Yes;No;No;337608.0;Door-to-door collection;No;157731.1
+PRY;LCN;Paraguay;UMC;San Lorenzo;20;4;2;52;6.0;12;Yes;No;Yes;283939.0;Door-to-door collection;;105711
+PSE;MEA;West Bank and Gaza;LMC;Ramallah;;;;;;;;;;;;;
+QAT;MEA;Qatar;HIC;Doha;;;;;;;Yes;Yes;Yes;718000.0;Curbside collection;;359035.9
+ROU;ECS;Romania;UMC;Cluj-Napoca;50.5;4.5;2.5;20;11.0;9;Yes;Yes;Yes;327000.0;Other;Yes;112194
+ROU;ECS;Romania;UMC;Bucharest;64.52;7.1;3.03;;13.58;9.42;Yes;Yes;Yes;1868000.0;Other;Yes;632866.62
+RUS;ECS;Russian Federation;UMC;Moscow;22;16;2;24;17.0;13;Yes;Yes;Yes;11461000.0;Centralized drop-off point;;5500000
+RUS;ECS;Russian Federation;UMC;St.petersburg;23.1;6.3;3.5;21.6;29.7;5.8;Yes;Yes;Yes;4993000.0;Centralized drop-off point;No;2300000
+RUS;ECS;Russian Federation;UMC;Kemerovo;17;3;7;15;45.0;13;Yes;;Yes;533000.0;Centralized drop-off point;Yes;189254
+RWA;SSF;Rwanda;LIC;Kigali ;66.86;1.36;1.93;2;16.13;1.5;Yes;;Yes;1257000.0;;;871729.5
+RWA;SSF;Rwanda;LIC;Nyagatare;;;;;;;Yes;;Yes;465855.0;;;
+SAU;MEA;Saudi Arabia;HIC;Jeddah;45;3;2;5;14.0;16;Yes;yes;yes;4076000.0;Curbside collection;No;2200000
+SAU;MEA;Saudi Arabia;HIC;Riyadh;55.9;3.2;2.4;13;12.2;13.3;Yes;Yes;Yes;6370000.0;Curbside collection;No;4380000
+SEN;SSF;Senegal;LIC;Rufisque;;;;;;;Yes;Yes;Yes;300000.0;Door-to-door collection;No;76650
+SLB;EAS;Solomon Islands;LMC;Honiara;53;1.1;9.2;7.2;6.6;19.5;Yes;;Yes;78000.0;Door-to-door collection;No;29000
+SLE;SSF;Sierra Leone;LIC;Freetown;59.2;1.2;6.2;21.8;;0.9;;;;800000.0;;;163520
+SLV;LCN;El Salvador;LMC;San Salvador;58;2;2;8;19.0;11;Yes;No;Yes;1097000.0;Other;;293747
+SOM;SSF;Somalia;LIC;Hargeysa;21.2;5.2;2.5;35.2;19.9;16;;;;607000.0;;;80000
+SRB;ECS;Serbia;UMC;Belgrade;30.93;6.84;2.38;14.96;22.69;14.92;Yes;Yes;Yes;1392691.0;Curbside collection;No;781692
+SRB;ECS;Serbia;UMC;Novi Sad;40.73;11.19;1.41;9.11;16.26;12.08;Yes;Yes;;314192.0;Centralized drop-off point;No;120773
+SSD;SSF;South Sudan;LIC;Juba;31;5;7;25;12.0;20;Yes;;Yes;321000.0;;;130053.15
+SVK;ECS;Slovak Republic;HIC;Trnava;42.35;32.58;;14.7;4.36;5.78;Yes;Yes;Yes;65536.0;;;60816
+SVK;ECS;Slovak Republic;HIC;Bratislava;50.17;15;1;;27.0;9;Yes;Yes;Yes;415589.0;Curbside collection;Yes;140594
+SVN;ECS;Slovenia;HIC;Ljubljana;;;;;;;Yes;Yes;Yes;309261.0;Other;Yes;98410
+SWE;ECS;Sweden;HIC;Borås;11;4;4.2;48.2;10.0;0.7;Yes;Yes;Yes;106000.0;Curbside collection;Yes;25500
+SWE;ECS;Sweden;HIC;Stockholm;37.6;4.5;2;18;24.8;10.2;Yes;;;897700.0;Other;Yes;399133
+SYR;MEA;Syrian Arab Republic;LIC;Damascus;57.3;2.9;4;22.3;6.6;6.9;No;;;2566000.0;;;1095000
+TGO;SSF;Togo;LIC;Lome;38;;;36;;;;;;956000.0;Door-to-door collection;No;311000
+THA;EAS;Thailand;UMC;Bangkok;42.72;2.7;1.15;6.41;15.18;25.01;Yes;Yes;Yes;9270000.0;Door-to-door collection;Yes;4190000
+TJK;ECS;Tajikistan;LIC;Dushanbe ;;;;;;;Yes;No;Yes;679400.0;Centralized drop-off point;;257000
+TJK;ECS;Tajikistan;LIC;Khujand;4.5;;5;55.5;25.0;10;Yes;No;Yes;144865.0;;;51974
+TKM;ECS;Turkmenistan;UMC;Ashgabat;19;4;3;34;7.0;3;;No;Yes;746000.0;;;164000
+TLS;EAS;Timor-Leste;LMC;Dili;12;2;1;17;18.0;18;Yes;;Yes;234331.0;Door-to-door collection;;54750
+TON;EAS;Tonga;UMC;Tongatapu;51.3;5.9;9;8.9;7.4;13.4;Yes;;;69211.0;Door-to-door collection;Yes;10950
+TON;EAS;Tonga;UMC;Vava’u;51.3;5.9;9;8.9;7.4;13.4;Yes;;Yes;14936.0;;;5515
+TUN;MEA;Tunisia;LMC;Tunis;46.7;2.48;2.8;17;21.31;10.15;Yes;No;Yes;700000.0;Curbside collection;Yes;220000
+TUN;MEA;Tunisia;LMC;Sfax;68;2;4;5;10.0;11;Yes;Yes;Yes;300000.0;Curbside collection;Yes;77000
+TUN;MEA;Tunisia;LMC;Sousse;65;3;2;12;9.0;9;;;;170000.0;;;70000
+TUR;ECS;Turkey;UMC;Sakarya Mm;40.6;4.4;2.4;24.5;11.8;15.9;;;;925662.0;;Yes;358139
+TUR;ECS;Turkey;UMC;Bursa Mm (Metropolitan Municipality);39.4;4.9;0.5;21.3;18.5;15.5;;Yes;;2764826.0;;;1069711
+TUV;EAS;Tuvalu;UMC;Funafuti;52.4;9.5;9.8;8.5;10.4;9.3;Yes;No;Yes;6000.0;Door-to-door collection;No;
+TZA;SSF;Tanzania;LIC;Dar Es Salaam;45;2.9;1.7;18.5;4.1;2;No;;;4364541.0;Multiple;No;1496500
+TZA;SSF;Tanzania;LIC;Moshi;65;3;2;12;9.0;9;;;;183520.0;;;62050
+TZA;SSF;Tanzania;LIC;Mountain Kilimanjaro;55;1;8;3;9.0;24;;;;210000.0;;;50000
+UGA;SSF;Uganda;LIC;Kampala;73.8;0.9;3.1;7.2;5.5;1.6;;;;1936000.0;;;840000
+UKR;ECS;Ukraine;LMC;Pavlograd;20.6;10.5;0.6;42.8;11.5;12.6;Yes;;Yes;109885.0;Other;No;84600
+UKR;ECS;Ukraine;LMC;Kiev;35;10;1;36;10.0;7;Yes;;;2942000.0;;Yes;1100000
+URY;LCN;Uruguay;HIC;Montevideo;40.95;5.73;2.06;13.55;19.05;15.87;Yes;Yes;;1319108.0;Centralized drop-off point;Yes;481800
+USA;NAC;United States;HIC;Seattle;53.8;2.3;3.1;8.8;20.3;11.5;Yes;Yes;Yes;631350.0;Curbside collection;;720904
+USA;NAC;United States;HIC;Washington Dc;83.86;;0.1;15.94;0.11;;Yes;;Yes;693972.0;Curbside collection;;479930.77
+USA;NAC;United States;HIC;Ann Arbor;;;;;;;Yes;Yes;Yes;307000.0;;;200767.82
+UZB;ECS;Uzbekistan;LMC;Namangan;;;;;;;;;;521000.0;;;
+UZB;ECS;Uzbekistan;LMC;Tashkent;38.4;3.7;3.4;21;18.9;;Yes;No;Yes;2251000.0;Centralized drop-off point;No;500000
+VEN;LCN;Venezuela, RB;UMC;Caracas;50;;;50;;;Yes;No;Yes;3220540.0;Centralized drop-off point;;1787940
+VNM;EAS;Vietnam;LMC;Hanoi;59.1;2.4;0.9;19.8;5.9;8.6;Yes;;Yes;3629000.0;Door-to-door collection;No;2390750
+VNM;EAS;Vietnam;LMC;Ho Chi Minh City;69;;0.2;10.8;3.0;16;Yes;;;7981900.0;Door-to-door collection;No;2518500
+VUT;EAS;Vanuatu;LMC;Port Vila;62.8;7.8;4.6;9.4;6.1;7.9;Yes;;;44039.0;Door-to-door collection;;27000
+WSM;EAS;Samoa;UMC;Upolu (Apia);3.8;2.17;8.83;26.22;7.2;13.04;Yes;;Yes;147184.0;Door-to-door collection;Yes;
+XKX;ECS;Kosovo;LMC;Gjilan;;;;;;;No;Yes;Yes;90015.0;;No;27000
+XKX;ECS;Kosovo;LMC;Pristina;40.87;4.45;1.18;24.72;12.83;14.78;Yes;;;210000.0;Other;;130928
+YEM;MEA;Yemen, Rep.;LIC;Sanaá;65;1;6;6;7.0;10;Yes;No;Yes;2330689.0;Door-to-door collection;No;510420.89
+ZAF;SSF;South Africa;UMC;Johannesburg ;;;;;;;Yes;Yes;Yes;4434827.0;;No;1867000
+ZAF;SSF;South Africa;UMC;Cape Town;47;4;14;22;7.0;6;;;;3430000.0;;;1251950
+ZAF;SSF;South Africa;UMC;Soweto;9;12;3;64;9.0;3;;;;;;;
+ZAF;SSF;South Africa;UMC;Bloemfontein ;42.6;9.6;4.4;7.5;18.2;17.7;Yes;;;256185.0;;No;
+ZAF;SSF;South Africa;UMC;Durban;42.5;7.1;6.9;6.8;19.3;17.4;;;;2739000.0;;;1421541
+ZMB;SSF;Zambia;LMC;Ndola ;40;;;16.66;5.0;8.33;;;;453000.0;;;85979.4
+ZMB;SSF;Zambia;LMC;Lusaka;40;2;2;40;9.0;7;;;;1719000.0;;;530000
+ZWE;SSF;Zimbabwe;LIC;Kadoma City;60;3;3;22;5.0;7;;;;;;;
+ZWE;SSF;Zimbabwe;LIC;Mbare;28;2;12;25;6.0;11;;;;;;;
+ZWE;SSF;Zimbabwe;LIC;Norton;62.3;2.7;4.9;16.2;4.8;9.1;;;;58421.0;;;14021.039999999999
+ZWE;SSF;Zimbabwe;LIC;Chinhoyi;62.8;3.5;5.4;14.7;5.0;8.6;;;;98000.0;;;25480
+ZWE;SSF;Zimbabwe;LIC;Harare ;22.61;6.45;;32.74;19.69;18.1;Yes;;;1379000.0;Door-to-door collection;No;352334.5
+ZWE;SSF;Zimbabwe;LIC;Gweru;62.4;3;3.8;13.9;6.7;10.2;;;;157865.0;;;37887.599999999999
+ZWE;SSF;Zimbabwe;LIC;Kariba;52;2;3;25;7.0;11;;;;26512.0;;;7423.3600000000006
+ZWE;SSF;Zimbabwe;LIC;Masvingo City;15;4;5;6;30.0;40;;;;;;;
+ZWE;SSF;Zimbabwe;LIC;Sakubva ;32;5;6;7;27.0;23;;;;;;;
