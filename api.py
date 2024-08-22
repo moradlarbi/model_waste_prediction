@@ -86,7 +86,9 @@ def predict():
     
     # Return the prediction as a JSON response
     return jsonify({'predicted_waste': prediction[0]})
-
+@app.route('/')
+def helloworld():
+    return "hey"
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000)) 
     app.run(host='0.0.0.0', port=port)
