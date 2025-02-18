@@ -1,94 +1,129 @@
-import pandas as pd
 import os
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.impute import SimpleImputer
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-import numpy as np
-import logging
+import joblib
+import pymysql
+import pandas as pd
 from flask import Flask, request, jsonify
+from dotenv import load_dotenv
+from urllib.parse import urlparse
 
-# Set up logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+# Load environment variables
+load_dotenv()
 
-# Load the data from a CSV file
-file_path = 'merged_data_city.csv'
-df = pd.read_csv(file_path)
-df.dropna(subset=['total_msw_total_msw_generated_tons_year'], inplace=True)
+# Database connection setup using JAWSDB_URL
+JAWSDB_URL = os.getenv("JAWSDB_URL")
+parsed_url = urlparse(JAWSDB_URL)
 
-# Feature selection and target variable
-X = df[['iso3c', 'region_id', 'income_id',
+# Extracting the connection details from the URL
+db_host = parsed_url.hostname
+db_user = parsed_url.username
+db_password = parsed_url.password
+db_name = parsed_url.path[1:]  # remove leading '/'
+
+# Load the trained model
+model = joblib.load('model.pkl')
+
+# Load CSV data to compute mean values for composition fields (excluding population)
+csv_file_path = 'merged_data_city.csv'
+df_csv = pd.read_csv(csv_file_path)
+
+# Define composition features that will be imputed from the CSV
+composition_features = [
+    'composition_food_organic_waste_percent',
+    'composition_glass_percent',
+    'composition_metal_percent',
+    'composition_other_percent',
+    'composition_paper_cardboard_percent',
+    'composition_plastic_percent'
+]
+
+# Compute mean values from CSV for composition features
+mean_values = df_csv[composition_features].mean().to_dict()
+
+# Flask app
+app = Flask(__name__)
+
+def get_db_connection():
+    return pymysql.connect(host=db_host, user=db_user, password=db_password, database=db_name)
+
+@app.route('/predict_all', methods=['GET'])
+def predict_all_waste():
+    # Fetch all regions from the database
+    conn = get_db_connection()
+    cursor = conn.cursor(pymysql.cursors.DictCursor)
+    cursor.execute("SELECT * FROM Region")
+    regions = cursor.fetchall()
+    conn.close()
+
+    if not regions:
+        return jsonify({"error": "No regions found"}), 404
+
+    # Define default values for categorical fields (as used during model training)
+    categorical_defaults = {
+        "iso3c": "DZA",
+        "region_id": "AFR",
+        "income_id": "LMC",
+        "institutional_framework_department_dedicated_to_solid_waste_management_na": "Yes",
+        "legal_framework_long_term_integrated_solid_waste_master_plan_na": "Yes",
+        "legal_framework_solid_waste_management_rules_and_regulations_na": "Yes",
+        "primary_collection_mode_form_of_primary_collection_na": "Yes",
+        "separation_existence_of_source_separation_na": "Yes"
+    }
+
+    # Convert DB data to DataFrame
+    df_regions = pd.DataFrame(regions)
+
+    # Add missing composition columns if they don't exist in the DB table.
+    for col in composition_features:
+        if col not in df_regions.columns:
+            df_regions[col] = pd.NA
+
+    # Convert composition features to numeric and fill missing values with CSV mean values
+    for col in composition_features:
+        df_regions[col] = pd.to_numeric(df_regions[col], errors='coerce')
+        df_regions[col].fillna(mean_values[col], inplace=True)
+
+    # For population, use the value from the DB and rename it to match the model input.
+    df_regions['population_population_number_of_people'] = pd.to_numeric(
+        df_regions['population'], errors='coerce'
+    )
+    # In case of missing population, you might set a default (here, 0)
+    df_regions['population_population_number_of_people'].fillna(0, inplace=True)
+
+    # Set the categorical defaults (these columns do not exist in the DB, so we create them)
+    for col, default in categorical_defaults.items():
+        df_regions[col] = default
+
+    # Define the expected order of columns as used during model training
+    expected_cols = [
+        'iso3c',
+        'region_id',
+        'income_id',
+        'composition_food_organic_waste_percent',
+        'composition_glass_percent',
+        'composition_metal_percent',
+        'composition_other_percent',
+        'composition_paper_cardboard_percent',
+        'composition_plastic_percent',
         'institutional_framework_department_dedicated_to_solid_waste_management_na',
         'legal_framework_long_term_integrated_solid_waste_master_plan_na',
         'legal_framework_solid_waste_management_rules_and_regulations_na',
         'population_population_number_of_people',
         'primary_collection_mode_form_of_primary_collection_na',
-        'separation_existence_of_source_separation_na']]
+        'separation_existence_of_source_separation_na'
+    ]
 
-# Target variables
-target_variables = ['total_msw_total_msw_generated_tons_year']
+    input_df = df_regions[expected_cols]
 
-# List of numeric and categorical features
-numeric_features = ['population_population_number_of_people']
-categorical_features = ['iso3c', 'region_id', 'income_id',
-                         'institutional_framework_department_dedicated_to_solid_waste_management_na',
-                         'legal_framework_long_term_integrated_solid_waste_master_plan_na',
-                         'legal_framework_solid_waste_management_rules_and_regulations_na',
-                         'primary_collection_mode_form_of_primary_collection_na',
-                         'separation_existence_of_source_separation_na']
+    # Make predictions with the model
+    predictions = model.predict(input_df)
 
-# Preprocessing pipeline for numeric data
-numeric_transformer = Pipeline(steps=[
-    ('imputer', SimpleImputer(strategy='median')),  # Changed to median
-    ('scaler', StandardScaler())
-])
+    # Prepare the response (using the region id from the DB)
+    result = [
+        {"region_id": region["id"], "predicted_waste_tons_per_year": float(pred),"name":region["nom"]}
+        for region, pred in zip(regions, predictions)
+    ]
 
-# Preprocessing pipeline for categorical data
-categorical_transformer = Pipeline(steps=[
-    ('imputer', SimpleImputer(strategy='most_frequent')),
-    ('onehot', OneHotEncoder(handle_unknown='ignore'))
-])
+    return jsonify(result)
 
-# Combining numeric and categorical preprocessors
-preprocessor = ColumnTransformer(
-    transformers=[
-        ('num', numeric_transformer, numeric_features),
-        ('cat', categorical_transformer, categorical_features)
-    ])
-
-# Create a pipeline that includes preprocessing and model training
-model_pipeline = Pipeline(steps=[
-    ('preprocessor', preprocessor),
-    ('regressor', RandomForestRegressor(random_state=42))  # Using RandomForestRegressor
-])
-
-# Train the model
-logging.info('Training model...')
-X_train, X_test, y_train, y_test = train_test_split(X, df[target_variables], test_size=0.2, random_state=42)
-model_pipeline.fit(X_train, y_train[target_variables[0]])
-
-# Flask app setup
-app = Flask(__name__)
-
-@app.route('/predict', methods=['POST'])
-def predict():
-    # Get JSON request data
-    data = request.json
-    
-    # Convert data into a DataFrame
-    input_data = pd.DataFrame([data])
-    
-    # Predict using the trained model pipeline
-    prediction = model_pipeline.predict(input_data)
-    
-    # Return the prediction as a JSON response
-    return jsonify({'predicted_waste': prediction[0]})
-@app.route('/')
-def helloworld():
-    return "hey"
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5000)) 
-    app.run(host='0.0.0.0', port=port)
+    app.run(debug=True)
